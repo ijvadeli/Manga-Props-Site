@@ -28,7 +28,7 @@ export default function Drawer() {
               <path d="M14 10l2 2l-2 2"></path>
             </svg>
           </label>
-          <div className="px-4">MangaProps</div>
+          <div className="px-4">MusicSiteDesign</div>
         </nav>
         {/* Page content here */}
         <CardGrid/>
