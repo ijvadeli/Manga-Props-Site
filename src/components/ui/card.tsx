@@ -3,7 +3,7 @@ export default function Card(props) {
     <>
       <div>
         <img
-          className="size-10 rounded-box"
+          className="size-10 rounded-sm"
           src={props.Image}
           alt={props.Artist}
         />
