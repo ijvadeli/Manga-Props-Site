@@ -3,7 +3,7 @@ export default function Card(props) {
     <div className="card bg-base-100 w-full h-full shadow-sm">
       <figure className="px-10 pt-10">
         <div
-          className="w-full h-125 rounded-xl"
+          className="w-full h-75 rounded-xl"
           style={{
             backgroundImage: `url(${props.Image})`,
             backgroundSize: "cover",
